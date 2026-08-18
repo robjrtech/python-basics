@@ -12,6 +12,6 @@ print(f"Hello, my name {my_name} I am {my_age} years old and {my_height} meters 
 # Prints your age in the next five years
 print(f"In 5 years, I will be {my_age + 5} years old")
 
-# Calculates the area of rectangle (w x h)
+# Prints the Calculation the area of rectangle (w x h)
 print(f"The area of a {width} x {height} rectangle is {width * height}")
 
