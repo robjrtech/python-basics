@@ -15,3 +15,5 @@ print(f"In 5 years, I will be {my_age + 5} years old")
 # Prints the Calculation the area of rectangle (w x h)
 print(f"The area of a {width} x {height} rectangle is {width * height}")
 
+# Prints the calculation of at least two different arithmetic operators
+print((3 ** 2) * 2)
